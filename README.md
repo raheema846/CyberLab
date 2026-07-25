@@ -1,8 +1,8 @@
-# CyberLab
+# 🛡️ CyberLab
 
-My cybersecurity learning journey.
+Welcome to my cybersecurity learning repository.
 
-## Topics
+## 📚 Topics
 
 - Linux
 - Networking
@@ -10,8 +10,15 @@ My cybersecurity learning journey.
 - Web Security
 - Reports
 
-## Tools
+## 🛠️ Tools
 
 - Kali Linux
 - Git
 - GitHub
+
+## 🎯 Goal
+
+To document my cybersecurity learning journey by completing practical labs, projects, and reports.
+
+---
+Made with ❤️ by Raheema
